@@ -7,11 +7,11 @@
 I am an aspiring backend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in it started in School where I learned the basics of Python. After high school, already in college, I tried my hand at different areas where I learned C++, but over time I still came back to backend development! I am currently in my 3rd year of college, where I am gradually improving my programming and soft skills!
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-drikdaniil-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drikexe)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-drikdaniil-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drikexe)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/daniil-drik-67687b210/" target="_blank">
@@ -24,7 +24,7 @@ I am an aspiring backend developer<img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-### 💻 Технологии:
+### 💻 Technology:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -36,7 +36,7 @@ I am an aspiring backend developer<img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
