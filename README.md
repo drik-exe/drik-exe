@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I am an aspiring backend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in it started in School where I learned the basics of Python. After high school, already in college, I tried my hand at different areas where I learned C++, but over time I still came back to backend development! I am currently in my 3rd year of college, where I am gradually improving my programming and soft skills!
+I am backend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in it started in School where I learned the basics of Python. After high school, already in college, I tried my hand at different areas where I learned C++, but over time I still came back to backend development!
 
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-drikdaniil-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drikexe)
