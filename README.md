@@ -17,9 +17,6 @@ I am backend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
     <a href="https://www.linkedin.com/in/daniil-drik-67687b210/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://www.instagram.com/drik.exe/" target="_blank">
-      <img src="https://www.cdnlogo.com/logos/i/32/instagram-icon.svg" width="40" height="40" alt="instagram" />
-    </a>
     <a href="https://stepik.org/users/424226947/profile" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" width="40" height="40" alt="instagram" />
     </a>
