@@ -7,21 +7,6 @@
 I am backend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in it started in School where I learned the basics of Python. After high school, already in college, I tried my hand at different areas where I learned C++, but over time I still came back to backend development!
 
 
--  How to contact me: [![Telegram Badge](https://img.shields.io/badge/-drikdaniil-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/drikexe)
-
----
-
-### 🤝 Social media:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/daniil-drik-67687b210/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://stepik.org/users/424226947/profile" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" width="40" height="40" alt="instagram" />
-    </a>
-  </div>
-
 ---
 
 ### 💻 Technologies:
