@@ -1,8 +1,8 @@
 <div align=center>
+  <img src="https://media1.tenor.com/m/MYZgsN2TDJAAAAAC/this-is.gif" width="100"/>
   <h1>Yo!</h1>
 </div>
 
----
 
 
 ### 💻 Technologies:
