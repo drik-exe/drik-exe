@@ -1,9 +1,3 @@
-# ─────────────────────────────────────────────────────────────────────────
-#  °˖* ૮(  • ᴗ ｡)っ🍸  pewdiepie/archdaemon/dionysh shhheersh
-#  Nord-inspired, neon-accent terminal theme
-#  vers. 1.0.0
-# ─────────────────────────────────────────────────────────────────────────
-
 # ── Cursor & Selection Colours ───────────────────────────────────────────
 [colors.cursor]
 cursor = "#528bff"
